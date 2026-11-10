@@ -1,0 +1,15 @@
+{
+  "name": "佳佳快跑",
+  "short_name": "佳佳快跑",
+  "description": "地标跑酷：天安门、东方明珠、广州塔",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#0a1024",
+  "theme_color": "#0a1024",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
